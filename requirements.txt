@@ -1,6 +1,7 @@
 aiogram==3.13.1
 aiohttp>=3.9.0
+fastapi>=0.111.0
+uvicorn>=0.29.0
 scdl>=2.8.0
 soundcloud-v2>=1.4.0
 mutagen>=1.47.0
-python-dotenv>=1.0.0
